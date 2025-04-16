@@ -3,7 +3,7 @@
 
 - I currently studying at **EPITA**
 
-- 🌱 I’m currently learning **Lips**
+- 🌱 I’m currently learning **CUDA**
 
 - 📫 How to reach me **igor.potard@gmail.com**
 
