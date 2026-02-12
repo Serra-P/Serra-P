@@ -1,11 +1,9 @@
-<h1 align="center">Welcome to Igor's Digital Playground!</h1>
+<h1 align="center">Welcome to Serra's Digital Playground!</h1>
 <h3 align="center">Bridging Imagination and Technology</h3>
 
 - I currently studying at **EPITA**
 
 - 🌱 I’m currently learning **CUDA**
-
-- 📫 How to reach me **igor.potard@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
